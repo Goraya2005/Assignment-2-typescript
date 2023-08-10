@@ -1,0 +1,11 @@
+{
+  "name": "ts_assignment_06082023",
+  "version": "1.0.0",
+  "description": "2nd Assignment TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naeem Goraya",
+  "license": "ISC"
+}
